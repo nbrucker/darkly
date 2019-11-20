@@ -1,0 +1,5 @@
+sur la page de l'albatroz il est écrit en commentaire qu'on doit venir de "https://nsa.gov/" et utiliser le navigateur ft_bornToSec
+
+plugin "User-Agent Switcher for Chrome" et "Referer Control"
+
+grâce à ces 2 plugins ont peux changer la valeur du user-agent et du referer

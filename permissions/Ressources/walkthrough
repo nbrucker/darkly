@@ -1,0 +1,5 @@
+dans le robots.txt est inscrit le dossier /whatever dans lequel est un .htpasswd contenant
+"root:8621ffdbc5698829397d97767ac13db3"
+8621ffdbc5698829397d97767ac13db3 => dragon
+
+utiliser ce login / mdp dans /admin

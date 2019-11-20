@@ -1,0 +1,4 @@
+extension chrome "EditThisCookie"
+
+la valeur du cookie "I_am_admin" est false en md5
+il suffit donc de la remplacer par true encodé en md5

